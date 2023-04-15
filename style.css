@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(88, 162, 138);
+}
+#score_holder{
+    font: size 150px;
+    font-weight:bold;
+    color:rgb(0, 0, 0);
+    float:left;
+    margin-left:auto;
+}
+#time_holder{
+    font: size 150px;
+    font-weight:bold;
+    color:rgb(0, 0, 0);
+    float:right;
+    margin-right:auto;
+}
+#drawn_sketch{
+    color:rgb(0, 0, 0);
+    font-weight:bold;
+}
